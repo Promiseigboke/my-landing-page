@@ -1,0 +1,162 @@
+.section1 {
+    background-color: #1f2937; 
+    color: white; 
+    margin-left: -8px; 
+    margin-right: -8px; 
+    margin-top: -25px;
+}
+
+.header-logo-test{
+    list-style-type: none;
+    font-size: 24px;
+    color: #f9faf8;
+    text-align: center;
+    padding-right: 350px;
+}
+
+.header-link-one {
+    list-style-type: none;
+    font-size: 18px;
+    color: #e5e7eb;
+    text-align: center;
+}
+
+.header-link-two {
+    list-style-type: none;
+    font-size: 18px;
+    color: #e5e7eb;
+    text-align: center;
+}
+
+.header-link-three {
+    list-style-type: none;
+    font-size: 18px;
+    color: #e5e7eb; 
+}
+
+.flex-container {
+    display: flex;
+    align-items: stretch;
+}
+
+.flex-container > div {
+    margin: 20px;
+    font-size: 10px;
+}
+
+.button1 {
+  background-color: #0663f7;
+  border-radius: 3px;
+  border-style: none;
+  padding-right: 9px;
+  color: white;
+}
+
+.placeholder-image {
+    background-color: #ebeef59b;
+    color: white;
+    float: right;
+    margin-top: 2px;
+    margin-right: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.awesome-website-div {
+    margin-top: -40px;
+}
+
+.awesome-website {
+    font-size: 48px;
+    margin-top: -70px;
+}
+
+.awesome-website-p {
+    width: 44%;
+    margin-left: 40px;
+}
+
+.section2 {
+    
+}
+.random-information {
+    font-size: 36px;
+    color: #17273e;
+    text-align: center;
+    margin-top: -18px;
+    margin-bottom: -10px;
+}
+
+.rounded-border-session {
+margin-left: 90px;
+margin-top: 20px
+}
+
+.first-border {
+    display: inline-block;
+    border-color: #035be8fc;
+    border-style: solid;
+    padding: 40px 40px;
+    border-radius: 7px;
+    margin-left: 90px;
+    margin-bottom: -20px;
+}
+
+.second-border {
+    display: inline-block;
+    border-color: #1664e0;
+    border-style: solid;
+    padding:40px 40px;
+    border-radius: 7px;
+    margin-left: 30px;
+    margin-bottom: -20px;
+}
+
+.third-border {
+    display: inline-block;
+    border-style: solid;
+    padding: 40px 40px;
+    border-radius: 7px;
+    margin-left: 30px;
+    border-color: #0c63ef;
+    margin-bottom: -20px;
+}
+
+.fourth-border {
+    display: inline-block;
+    border-style: solid;
+    border-color: #0862f4;
+    padding: 40px 40px;
+    border-radius: 7px;
+    margin-left: 30px;
+    margin-bottom: -20px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container > div {
+    text-align: center;
+    
+}
+
+.text-on-first-border {
+   padding-left: 70px;
+   
+    
+}
+
+.text-on-second-border {
+    
+}
+
+.text-on-third-border {
+    
+}
+
+.text-on-fourth {
+   
+}
