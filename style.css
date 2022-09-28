@@ -12,6 +12,7 @@
     color: #f9faf8;
     text-align: center;
     padding-right: 350px;
+    padding-top: 10px;
 }
 
 .header-link-one {
@@ -19,6 +20,7 @@
     font-size: 18px;
     color: #e5e7eb;
     text-align: center;
+    padding-top: 10px;
 }
 
 .header-link-two {
@@ -26,12 +28,14 @@
     font-size: 18px;
     color: #e5e7eb;
     text-align: center;
+    padding-top: 10px;
 }
 
 .header-link-three {
     list-style-type: none;
     font-size: 18px;
-    color: #e5e7eb; 
+    color: #e5e7eb;
+    padding-top: 10px; 
 }
 
 .flex-container {
@@ -42,26 +46,6 @@
 .flex-container > div {
     margin: 20px;
     font-size: 10px;
-}
-
-.button1 {
-  background-color: #0663f7;
-  border-radius: 3px;
-  border-style: none;
-  padding-right: 9px;
-  color: white;
-}
-
-.placeholder-image {
-    background-color: #ebeef59b;
-    color: white;
-    float: right;
-    margin-top: 2px;
-    margin-right: 70px;
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-bottom: 10px;
-    padding-top: 10px;
 }
 
 .awesome-website-div {
@@ -76,6 +60,27 @@
 .awesome-website-p {
     width: 44%;
     margin-left: 40px;
+}
+
+.button1 {
+  background-color: #0663f7;
+  border-radius: 3px;
+  border-style: none;
+  padding-right: 9px;
+  color: white;
+  
+}
+
+.placeholder-image {
+    background-color: #ebeef59b;
+    color: white;
+    float: right;
+    margin-top: 2px;
+    margin-right: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 .section2 {
@@ -159,4 +164,63 @@ margin-top: 20px
 
 .text-on-fourth {
    
+}
+
+.section3 {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 1px
+}
+
+.cite {
+  padding-left: 620px;
+  padding-top: 0px;
+  display: inline-block;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+.section4 {
+    background-color: white;
+    color: white;
+    padding-left: 40px;
+    padding-top: 55px;
+}
+
+.call-to-action {
+    background-color: #0862f4;
+    padding-left: 60px;
+    border-radius: 3px;
+    display: inline-block;
+    margin-left: 20px;
+    padding-right: 60px;
+    margin-bottom: 40px;
+}
+
+.button2 {
+    background: #0862f4;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    border-color: white;
+    margin-left: 500px;
+}
+
+.copyright {
+    background-color: #1f2937;
+    padding-left: 250px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: -40px;
+    margin-right: -15px;
+    padding-right: 20px;
 }
