@@ -6,7 +6,7 @@
 
 .first-session {
     background-color: #1F2937;
-    padding-left: 220px;
+    padding-left: 150px;
 }
 
 .navbar {
@@ -19,7 +19,7 @@
 .navbar-left {
     color: #F9FAF8;
     font-size: 24px;
-    width: 46%;
+    width: 55%;
     list-style-type: none;
     display: inline-block;
     margin-top: 10px;
@@ -45,7 +45,7 @@
 }
 
 .leftside {
-    width: 500px;
+    width: 630px;
 }
 
 .rightside {
@@ -221,4 +221,16 @@
 .combine2 {
     display: flex;
     flex-direction: row;
+}
+
+.last-session {
+    background-color: #1F2937;
+    height: 70px;
+}
+
+.copyright-session {
+    color: white;
+    font-size: 18px;
+    padding-left: 500px;
+    padding-top: 25px;
 }
