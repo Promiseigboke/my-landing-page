@@ -181,3 +181,44 @@
     padding-left: 830px;
     font-size: 20px;
 }
+
+.fourth-session {
+    margin-top: 60px;
+    margin-bottom: 60px;   
+}
+
+.call-to-action-div {
+    margin-left: 180px;
+    background-color: #0263ff;
+    width: 1000px;
+    height: 120px;
+    padding-left: 100px;
+    border-radius: 8px;
+    padding-top: 30px;
+}
+
+.call-to-action {
+    color: white;
+    font-size: 24px;
+}
+
+.p-last {
+    color: white;
+    width: 75%;
+}
+
+.sign-up-last-session {
+    color: white;
+    background-color: #0262fc;
+    border: 2px solid white;
+    border-radius: 4px;
+    width: 110px;
+    height: 30px;
+    margin-top: -15px;
+    display: inline-block;
+}
+
+.combine2 {
+    display: flex;
+    flex-direction: row;
+}
