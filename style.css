@@ -6,26 +6,36 @@
 
 .first-session {
     background-color: #1F2937;
-    padding-left: 70px;
+    padding-left: 220px;
 }
 
 .navbar {
     display: flex;
     flex-direction: row;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
+    align-items: center;
 }
 
 .navbar-left {
     color: #F9FAF8;
     font-size: 24px;
-    width: 70%;
+    width: 46%;
     list-style-type: none;
+    display: inline-block;
+    margin-top: 10px;
 }
 
 .navbar-right {
     font-size: 18px;
     color: #E5E7EB;
-    justify-content: center;
+}
+
+.header-two {
+    padding-left: 13px;
+}
+
+.header-three {
+    padding-left: 13px;
 }
 
 .header-link-text {
@@ -35,21 +45,118 @@
 }
 
 .leftside {
-    width: 600px;
+    width: 500px;
+}
+
+.rightside {
+    margin-bottom: 60px;
 }
 
 .first-text {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: bolder;
+    margin-top: 15px;
 }
 
 .second-text {
     font-size: 18px;
     color: #E5E7EB;
+    margin-left: 3px;
+    margin-bottom: 15px;
 }
 
 .combine {
     display: flex;
     flex-direction: row;
+}
+
+.btn-1 {
+    margin-left: 3px;
+    height: 30px;
+    width: 100px;
+    border: 2px solid #0561f5;
+    background-color: #0561f5;
+    color: white;
+    border-radius: 5px;
+}
+
+.img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.second-session {
+    margin-top: 30px;
+}
+
+.h1-first {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+}
+
+.rounded-borders {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   margin-top: 40px;
+}
+
+.border1 {
+    border: 3px solid #3882f6;
+    width: 140px;
+    height: 180px;
+    border-radius: 10px;
+}
+
+.border2 {
+    border: 3px solid #3882f6;
+    width: 140px;
+    height: 180px;
+    border-radius: 10px;
+    margin-left: 60px;
+}
+
+.border3 {
+    border: 3px solid #3882f6;
+    width: 140px;
+    height: 180px;
+    border-radius: 10px;
+    margin-left: 60px;
+}
+
+.border4 {
+    border: 3px solid #3882f6;
+    width: 140px;
+    height: 180px;
+    border-radius: 10px;
+    margin-left: 60px;
+}
+
+.subtext-div {
+    display:flex;
+    flex-direction: row;
+    margin-left: 310px;
+    
+}
+
+.subtext1 {
+  text-align: center;
+}
+
+.subtext2 {
+   margin-left: 69px;
+   text-align: center;
+}
+
+.subtext3 {
+    text-align: center;
+    margin-left: 71px;
+}
+
+.subtext4 {
+    text-align: center;
+    margin-left: 72px;
 }
